@@ -1,0 +1,20 @@
+{
+  "name": "strekoza/module-skip-form-key",
+  "description": "Magento plugin, skip check For Key for chose routes",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "magefast",
+      "email": "magefast@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Strekoza\\SkipFormKey\\": ""
+    }
+  }
+}
