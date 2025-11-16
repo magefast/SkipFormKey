@@ -6,7 +6,11 @@ Magento module - `Skip validation Form Key`. Can use in Custom solutions/modules
 - Base settings for `'checkout', 'liqpay'`
 
 
-
 ## Install with Composer
 
 `composer require strekoza/module-skip-form-key`
+
+
+## @todo
+- Settings in Admin panel
+- Add Log
